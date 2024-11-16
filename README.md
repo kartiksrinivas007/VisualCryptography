@@ -9,12 +9,12 @@ According to the image generation, any k people can come together and overlap th
 An example key:-
 
 
-![Key](bmpfiles/image5.bmp)
+![Key](BMPdir/image5.bmp)
 
 
 Here is one of the hashed out images distributed amongst the members of the sharing problem
 
-![share](bmpfiles/share__0.bmp)
+![share](BMPdir/share__0.bmp)
 
 
 On overlapping any set of k such distinct images (out of n), the original key can be retrieved.
