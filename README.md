@@ -1,6 +1,6 @@
 ### Visual-Cryptography
 
-This is a C++ implementation of Naor's work on Visual Cryptography [VC](https://link.springer.com/content/pdf/10.1007/BFb0053419.pdf)
+This is a C++ implementation of Naor's work on Visual Cryptography ([VC](https://link.springer.com/content/pdf/10.1007/BFb0053419.pdf))
 It implements 2 out of 2 secret sharing and 2 out of n secret sharing.
 
 For example the below image (key) can be broken into separate images that could be shared amongst n people. 
